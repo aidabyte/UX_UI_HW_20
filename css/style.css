@@ -1,0 +1,109 @@
+#rootedImg{
+    width: 150px;
+    float: right;
+}
+
+#durationImg{
+    width: 70%;
+   display: block;
+   margin-left:auto;
+   margin-right: auto;
+   
+}
+
+#designImg{
+    width: 1050px;
+    height: 350px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+
+
+h1{
+font-family: "Chicle", "cursive", "Open Sans", sans-serif;
+padding-top: 50px;
+font-size: 50px;
+color: black;
+}
+h2{
+    font-family: "Mulish", sans-serif;
+    font-style: bold;
+    
+}
+h3{
+    font-family: "Mulish", sans-serif;
+    color: #0081A7;
+    padding-bottom: 10px;
+
+}
+
+h5{
+    font-style: normal;
+    font-family: "Mulish", sans-serif;
+    color: #0081A7;
+    padding-bottom: 5px;
+}
+
+p{
+    font-family: "Mulish", sans-serif;
+}
+
+
+.jumbotron{
+    background-color: white;
+}
+
+#graphOneImg{
+    width: 200px;
+    height: 200px;
+
+}
+#graphTwoImg{
+    width: 200px;
+    height: 200px;
+
+}
+#graphThreeImg{
+    width: 200px;
+    height: 200px;
+
+
+}
+
+.square2 {
+    width: 20px;
+    height: 20px;
+    background: #616161;
+}
+.square1 {
+    width: 20px;
+    height: 20px;
+    background: #00AFB9;
+    
+}
+
+h6{
+    float: left;
+    padding-left: 40px;
+    clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    font-family: "Mulish", sans-serif;
+}
+
+.card{
+    width: 400px;
+    
+
+
+}
+
+.row{
+    margin-left:auto;
+    margin-right: auto;
+    justify-content: center;
+}
+    
